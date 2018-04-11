@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bfb65a5-4cfa-4e67-96ea-b4e839b65365" name="Default" comment="" />
+    <list default="true" id="4bfb65a5-4cfa-4e67-96ea-b4e839b65365" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractLinks.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AKG - haruka kanata (kanjikana).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FLOW - Sign (kanjikana).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Joe Inoue - Closer (kanjikana).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KANA-BOON - silhouette (kanjikana).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kana_romaji/AKG - haruka kanata (kanaroma).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kana_romaji/FLOW - Sign (kanaroma).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kana_romaji/Joe Inoue - Closer (kanaroma).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kana_romaji/KANA-BOON - silhouette (kanaroma).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kana_romaji/romkan.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kana_romaji/sokuon.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kana_romaji/sokuon2.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractMetadata.py" afterPath="$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractMetadata.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,16 +36,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="romkan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10166">
-              <caret line="391" column="28" lean-forward="false" selection-start-line="391" selection-start-column="28" selection-end-line="397" selection-end-column="85" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy.cfg">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,27 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AKG - haruka kanata (kanjikana).txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AKG - haruka kanata (kanjikana).txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3640">
-              <caret line="140" column="27" lean-forward="false" selection-start-line="140" selection-start-column="27" selection-end-line="140" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sokuon2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kana_to_roma.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kana_to_roma.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kana_romaji/kana_to_roma.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1560">
@@ -80,21 +66,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Joe Inoue - Closer (kanaroma).txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana_romaji/Joe Inoue - Closer (kanaroma).txt">
+      <file leaf-file-name="lyrics_extractMetadata.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractMetadata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="2600">
+              <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KANA-BOON - silhouette (kanjikana).txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KANA-BOON - silhouette (kanjikana).txt">
+      <file leaf-file-name="lyrics_extractLinks.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractLinks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="127">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -141,10 +127,15 @@
       <find>kanpat</find>
       <find>KANPAT</find>
       <find>str</find>
+      <find>album</find>
+      <find>src</find>
     </findStrings>
     <replaceStrings>
       <replace>string</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -153,7 +144,6 @@
         <option value="$PROJECT_DIR$/utaten_spider/spiders/extractLyricsMeta.py" />
         <option value="$PROJECT_DIR$/utaten_spider/spiders/extractLyrics.py" />
         <option value="$PROJECT_DIR$/utaten_spider/spiders/utaten_spider.py" />
-        <option value="$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractMetadata.py" />
         <option value="$PROJECT_DIR$/kana_romaji/sokuon.txt" />
         <option value="$PROJECT_DIR$/kana_romaji/generate_sokuon.py" />
         <option value="$PROJECT_DIR$/kana_romaji/onetimescripts/kata.py" />
@@ -161,6 +151,8 @@
         <option value="$PROJECT_DIR$/kana_romaji/romkan.py" />
         <option value="$PROJECT_DIR$/ASIAN+KUNG-FU+GENERATION - %E9%81%A5%E3%81%8B%E5%BD%BC%E6%96%B9.txt" />
         <option value="$PROJECT_DIR$/kana_romaji/kana_to_roma.py" />
+        <option value="$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractMetadata.py" />
+        <option value="$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractLinks.py" />
       </list>
     </option>
   </component>
@@ -171,10 +163,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="850" />
-    <option name="width" value="1078" />
+    <option name="x" value="1251" />
+    <option name="width" value="677" />
     <option name="height" value="1035" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -190,8 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,17 +205,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="utaten_spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utaten_spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utaten_spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utaten_spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utaten_spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utaten_spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="kana_romaji" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Smartfolios/etfscraper" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -559,21 +584,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="850" y="0" width="1078" height="1035" extended-state="1" />
+    <frame x="1251" y="0" width="677" height="1035" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30404624" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.192" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34285715" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49714285" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3734104" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44093177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -617,14 +642,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AKG - haruka kanata (kanjikana).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kana_romaji/onetimescripts/generate_sokuon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -633,21 +650,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon2.txt" />
+    <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon.txt" />
     <entry file="file://$PROJECT_DIR$/utaten_spider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -663,14 +667,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py" />
     <entry file="file://C:/ProgramData/Anaconda2/Lib/functools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2106">
@@ -685,14 +682,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py" />
     <entry file="file://$PROJECT_DIR$/titletest.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -700,14 +690,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py" />
     <entry file="file://$PROJECT_DIR$/titletest.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -715,14 +698,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8892">
-          <caret line="342" column="7" lean-forward="true" selection-start-line="342" selection-start-column="7" selection-end-line="342" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py" />
     <entry file="file://$PROJECT_DIR$/titletest.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -842,13 +818,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FLOW - Sign (kanjikana).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FLOW - Sign (kanjikana).txt" />
     <entry file="file://$PROJECT_DIR$/test_lyrics_sign.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -870,13 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractMetadata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/ProgramData/Anaconda2/Lib/functools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2106">
@@ -884,20 +847,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Joe Inoue - Closer (kanjikana).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Joe Inoue - Closer (kanjikana).txt" />
+    <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon.txt" />
     <entry file="file://$PROJECT_DIR$/utaten_spider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -912,22 +863,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10166">
-          <caret line="391" column="28" lean-forward="false" selection-start-line="391" selection-start-column="28" selection-end-line="397" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKG - haruka kanata (kanjikana).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3640">
-          <caret line="140" column="27" lean-forward="false" selection-start-line="140" selection-start-column="27" selection-end-line="140" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kana_romaji/romkan.py" />
+    <entry file="file://$PROJECT_DIR$/AKG - haruka kanata (kanjikana).txt" />
     <entry file="file://$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractLyrics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2054">
@@ -960,34 +897,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KANA-BOON - silhouette (kanjikana).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kana_romaji/Joe Inoue - Closer (kanaroma).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kana_romaji/sokuon2.txt" />
+    <entry file="file://$PROJECT_DIR$/KANA-BOON - silhouette (kanjikana).txt" />
+    <entry file="file://$PROJECT_DIR$/kana_romaji/Joe Inoue - Closer (kanaroma).txt" />
     <entry file="file://$PROJECT_DIR$/kana_romaji/kana_to_roma.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1560">
           <caret line="60" column="46" lean-forward="false" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractMetadata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2600">
+          <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utaten_spider/spiders/lyrics_extractLinks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
